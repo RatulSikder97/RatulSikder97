@@ -13,12 +13,7 @@
 
 ## Programming Languages
 
-<img src = './img/c-original.svg' width='30'/>
-
-<img src = './img/cpp.svg' width='30'/> 
-<img src = './img/python.svg' width='30'/>
-<img src = './img/html.svg' width='30'/> 
-<img src = './img/css.svg' height='30'/>
+<img src = './img/c-original.svg' width='30'/><img src = './img/cpp.svg' width='30'/> <img src = './img/python.svg' width='30'/><img src = './img/html.svg' width='30'/> <img src = './img/css.svg' height='30'/>
 <img src = './img/icons8-bootstrap-50.png' width='33'/> 
 <img src = './img/js.svg' width='30'/>
 <img src = './img/jquery.png' width='30'/>
