@@ -20,5 +20,5 @@
   - :octocat: [My Resume](https://drive.google.com/)
   - If you have any suggestions to this README, feel free to inform me. And if you liked, you are free to use it for yourself.(P.S. Star it too!!:grimacing: )
 
-![Haany's github stats](https://github-readme-stats.vercel.app/api?username=RatulSikder97&show_icons=true&hide=[%22issues%22])
+![Ratul's github status](https://github-readme-stats.vercel.app/api?username=RatulSikder97&show_icons=true)
  
