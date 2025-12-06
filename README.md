@@ -54,8 +54,7 @@ Building intelligent systems, real-time microservices, and cloud-native architec
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RatulSikder97&show_icons=true&theme=radical&hide_border=true" width="48%"/>  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RatulSikder97&theme=radical&hide_border=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RatulSikder97&theme=radical&hide_border=true" width="85%"/>
 
 </div>
 
