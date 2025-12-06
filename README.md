@@ -1,9 +1,9 @@
 <div align="center">
   
 # ⚡ Ratul Sikder  
-### Tech Lead • AI Engineer • Systems Architect  
+### Tech Lead • AI/ML Engineer • Systems Architect  
 
-Building intelligent systems, high-performance microservices, and cloud-native architectures that scale with ambition.
+Building intelligent systems, real-time microservices, and cloud-native architectures that scale with ambition.
 
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="450"/>
 
@@ -13,11 +13,13 @@ Building intelligent systems, high-performance microservices, and cloud-native a
 
 ## 🧠 What I Build
 
-- LLM-powered applications and intelligent automation  
-- Distributed systems & microservice architectures  
-- Cloud platforms (AWS, Kubernetes, Docker)  
-- Real-time, event-driven backend systems  
-- AI/ML pipelines, NLP engines, and RAG systems  
+- High-performance **NestJS** & **Spring Boot** backend systems  
+- LLM-powered applications, NLP engines & intelligent automation  
+- Distributed microservices with event-driven architecture  
+- Cloud-native platforms using AWS, Docker, Kubernetes  
+- AI/ML pipelines: TensorFlow, PyTorch, optimization workflows  
+- Observability & monitoring with **ELK Stack**, Prometheus, Grafana  
+- Scalable data layers using MySQL, PostgreSQL, Redis  
 
 ---
 
@@ -25,10 +27,23 @@ Building intelligent systems, high-performance microservices, and cloud-native a
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,go,java,php,cpp" /><br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,laravel,django,fastapi,nestjs" /><br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,redis,postgres,mongodb,aws,cloudflare,linux" /><br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,git,github,figma" />
+<!-- Languages -->
+<img src="https://skillicons.dev/icons?i=ts,js,java,python,go,cpp" /><br/>
+
+<!-- Frameworks -->
+<img src="https://skillicons.dev/icons?i=nestjs,spring,react,nextjs,vue,fastapi,laravel" /><br/>
+
+<!-- AI Stack -->
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" /><br/>
+
+<!-- Infra & Cloud -->
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,cloudflare,linux" /><br/>
+
+<!-- Databases & Search -->
+<img src="https://skillicons.dev/icons?i=mysql,postgres,redis,elasticsearch" /><br/>
+
+<!-- Tools -->
+<img src="https://skillicons.dev/icons?i=git,github,figma" />
 
 </div>
 
@@ -42,6 +57,16 @@ Building intelligent systems, high-performance microservices, and cloud-native a
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RatulSikder97&theme=radical&hide_border=true" width="48%"/>
 
 </div>
+
+---
+
+## 🔥 Areas of Expertise
+
+- **NLP & LLM Engineering**  
+- **Feature Optimization & Model Performance Tuning**  
+- **System Architecture & Microservices**  
+- **API Performance Engineering**  
+- **Secure, scalable backend platforms**  
 
 ---
 
@@ -59,6 +84,5 @@ A simple operating system for building meaningful things.
 <div align="center">
   
 ### “Code is the closest thing we have to magic.”
-⭐ If this README inspires you, feel free to star or adapt it.
 
 </div>
