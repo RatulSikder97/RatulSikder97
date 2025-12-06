@@ -1,47 +1,64 @@
-### Hi there 👋
+<div align="center">
+  
+# ⚡ Ratul Sikder  
+### Tech Lead • AI Engineer • Systems Architect  
 
-#### I'm Ratul Sikder  
-**Tech Lead | Distributed Systems | Microservices | AI/ML | Cloud-Native Architecture**
+Building intelligent systems, high-performance microservices, and cloud-native architectures that scale with ambition.
 
-Engineer obsessed with designing scalable systems, building intelligent applications, and shipping production-grade software across cloud, microservices, and AI ecosystems.
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="450"/>
 
----
-
-## 🤖 Core Areas of Passion
-
-- AI/ML, Deep Learning, NLP, LLM Engineering  
-- Microservices & Distributed Systems  
-- Cloud-Native Development (AWS, DigitalOcean, Kubernetes)  
-- Backend Architecture & API Engineering  
-- Full-Stack Web Development  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RatulSikder97&layout=compact&theme=tokyonight)
+</div>
 
 ---
 
-## 🛠️ Programming Languages & Tech Stack  
+## 🧠 What I Build
 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="45"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>  
-<img src="https://img.icons8.com/?size=100&id=90580&format=png&color=ffffff" width="45"/> <!-- AI Brain Icon -->
+- LLM-powered applications and intelligent automation  
+- Distributed systems & microservice architectures  
+- Cloud platforms (AWS, Kubernetes, Docker)  
+- Real-time, event-driven backend systems  
+- AI/ML pipelines, NLP engines, and RAG systems  
 
 ---
 
-## 📄 Other Stuff
+## 🚀 Technologies That Shape My Work
 
-- 📝 **[My Resume](https://drive.google.com/)**  
-- 💬 Suggestions for this README are always welcome.  
-- ⭐ If you like this layout, you’re free to use it!
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,go,java,php,cpp" /><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,laravel,django,fastapi,nestjs" /><br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,redis,postgres,mongodb,aws,cloudflare,linux" /><br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,git,github,figma" />
+
+</div>
 
 ---
 
-![Ratul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RatulSikder97&show_icons=true&theme=tokyonight)
+## 📊 GitHub Pulse
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=RatulSikder97&show_icons=true&theme=radical&hide_border=true" width="48%"/>  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RatulSikder97&theme=radical&hide_border=true" width="48%"/>
+
+</div>
+
+---
+
+## 🧩 Current Mode  
+**PLANNER • LEARNER • EXECUTOR**  
+A simple operating system for building meaningful things.
+
+---
+
+## 📄 Resume
+🔗 **[View My Resume](https://drive.google.com/)**  
+
+---
+
+<div align="center">
+  
+### “Code is the closest thing we have to magic.”
+⭐ If this README inspires you, feel free to star or adapt it.
+
+</div>
