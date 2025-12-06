@@ -72,7 +72,6 @@ Building intelligent systems, real-time microservices, and cloud-native architec
 
 ## 🧩 Current Mode  
 **PLANNER • LEARNER • EXECUTOR**  
-A simple operating system for building meaningful things.
 
 ---
 
