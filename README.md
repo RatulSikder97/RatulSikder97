@@ -1,13 +1,14 @@
 <div align="center">
-  
+
 # ⚡ Ratul Sikder  
 ### Tech Lead • AI/ML Engineer • Systems Architect  
 
 Building intelligent systems, real-time microservices, and cloud-native architectures that scale with ambition.
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="450"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RatulSikder97&theme=tokyo-night&area=true&hide_border=true" width="100%"/>
 
 </div>
+
 
 ---
 
