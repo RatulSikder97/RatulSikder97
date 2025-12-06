@@ -1,24 +1,47 @@
 ### Hi there 👋
 
-#### I'm Ratul Sikder
+#### I'm Ratul Sikder  
+**Tech Lead | Distributed Systems | Microservices | AI/ML | Cloud-Native Architecture**
 
-## :computer: Technologies I Love
+Engineer obsessed with designing scalable systems, building intelligent applications, and shipping production-grade software across cloud, microservices, and AI ecosystems.
 
-- Frontend and Backend Web Development
-- Machine Learning
-- Data Science
-- JavaScript
+---
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RatulSikder97&layout=compact">
+## 🤖 Core Areas of Passion
 
-## Programming Languages
+- AI/ML, Deep Learning, NLP, LLM Engineering  
+- Microservices & Distributed Systems  
+- Cloud-Native Development (AWS, DigitalOcean, Kubernetes)  
+- Backend Architecture & API Engineering  
+- Full-Stack Web Development  
 
-<img src = './img/c-original.svg' width='30'/><img src = './img/cpp.svg' width='30'/> <img src = './img/python.svg' width='30'/><img src = './img/html.svg' width='30'/> <img src = './img/css.svg' height='30'/><img src = './img/icons8-bootstrap-50.png' width='33'/> <img src = './img/js.svg' width='30'/><img src = './img/jquery.png' width='30'/><img src = './img/icons8-vue-js-50.png' width='30'/><img src = './img/php.svg' width='30'/> <img src = './img/sql.svg' width='30'/><img src = './img/1200px-Laravel.svg.png' width='30'/><img src = './img/git.svg' width='30'/><img src = './img/icons8-artificial-intelligence-50.png' width='30'/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RatulSikder97&layout=compact&theme=tokyonight)
+
+---
+
+## 🛠️ Programming Languages & Tech Stack  
 
 
-## Other Stuff
-  - :octocat: [My Resume](https://drive.google.com/)
-  - If you have any suggestions to this README, feel free to inform me. And if you liked, you are free to use it for yourself.(P.S. Star it too!!:grimacing: )
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="45"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>  
+<img src="https://img.icons8.com/?size=100&id=90580&format=png&color=ffffff" width="45"/> <!-- AI Brain Icon -->
 
-![Ratul's github status](https://github-readme-stats.vercel.app/api?username=RatulSikder97&show_icons=true)
- 
+---
+
+## 📄 Other Stuff
+
+- 📝 **[My Resume](https://drive.google.com/)**  
+- 💬 Suggestions for this README are always welcome.  
+- ⭐ If you like this layout, you’re free to use it!
+
+---
+
+![Ratul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RatulSikder97&show_icons=true&theme=tokyonight)
