@@ -48,27 +48,40 @@ architecture, measurable performance, and turning research ideas into shipped so
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=ts,js,java,python,go,cpp" /><br/>
+<img src="https://skillicons.dev/icons?i=python,ts,go,java,rust,bash" /><br/>
 
-**Frameworks**
+**AI / ML & LLMs**
 
-<img src="https://skillicons.dev/icons?i=nestjs,spring,react,nextjs,vue,fastapi,laravel" /><br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" /><br/>
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20%2F%20Vector%20Search-4B8BBE?style=flat-square)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white)<br/>
 
-**AI / ML**
+**Backend & Distributed Systems**
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" /><br/>
+<img src="https://skillicons.dev/icons?i=nestjs,spring,fastapi" /><br/>
+![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=flat-square)
+![gRPC](https://img.shields.io/badge/gRPC-244B5A?style=flat-square&logo=grpc&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)<br/>
 
-**Infrastructure & Cloud**
+**Infrastructure & DevOps**
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,cloudflare,linux" /><br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,terraform,githubactions,nginx,linux" /><br/>
 
-**Databases & Search**
+**Observability**
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,redis,elasticsearch" /><br/>
+<img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch" /><br/>
 
-**Tools**
+**Databases & Data**
 
-<img src="https://skillicons.dev/icons?i=git,github,figma" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" /><br/>
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 
 </div>
 
