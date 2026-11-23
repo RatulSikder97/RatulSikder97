@@ -42,6 +42,45 @@ architecture, measurable performance, and turning research ideas into shipped so
 
 ---
 
+## 🚀 Featured Projects
+
+> Every repo below is tested, CI-gated, and documented with architecture diagrams and real output.
+
+### 🤖 Agentic AI & LLM Engineering
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**rex-dex**](https://github.com/RatulSikder97/rex-dex) | One-person-company workbench: every department (eng, QA/DevOps, marketing, SEO, content, video) is an AI agent driven through Claude Code, Codex & other agent CLIs | TypeScript · Node · Agent CLIs |
+| [**agentflow**](https://github.com/RatulSikder97/agentflow) | Durable workflow engine for LLM agent pipelines: YAML DAGs, checkpointed exactly-once steps, crash-resume, Redis Streams workers, SSE, OpenTelemetry | Go · Postgres · Redis |
+| [**rag-eval-harness**](https://github.com/RatulSikder97/rag-eval-harness) | RAG pipeline that treats retrieval quality as a CI-gated regression test: hybrid pgvector + BM25, cited Claude answers, LLM-as-judge, recall@k / MRR / nDCG | Python · pgvector · Claude |
+| [**mcp-postgres-insight**](https://github.com/RatulSikder97/mcp-postgres-insight) | Safe, read-only MCP server giving agents real Postgres insight: AST-guarded SQL, PII redaction, EXPLAIN-driven index advice, prompt-injection-aware output | TypeScript · MCP · PostgreSQL |
+| [**stack_hub**](https://github.com/RatulSikder97/stack_hub) | Voice-preserving, human-gated AI content pipeline that fails loudly when its own output starts sounding like a model | Python · LLMs |
+
+### 🏗️ Backend & Distributed Systems
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**nest-saas-kit**](https://github.com/RatulSikder97/nest-saas-kit) | Multi-tenant SaaS backend: Postgres row-level security + app-layer isolation, rotating refresh tokens with reuse detection, API keys, BullMQ outbox, Redis rate limits | NestJS · TypeORM · Postgres · Redis |
+| [**ledgerflow**](https://github.com/RatulSikder97/ledgerflow) | Event-driven double-entry ledger: balanced immutable entries, idempotent transfers, transactional outbox → Kafka, proven under concurrent load with Testcontainers | Spring Boot 3 · Java 21 · Kafka |
+| [**cloudenvr**](https://github.com/RatulSikder97/cloudenvr) | Centralized encrypted env-var management with audit trails, RBAC, CLI + universal SDK | TypeScript · Node · Docker |
+
+### 📊 Data, ML & Research
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**smart-retail-intelligence**](https://github.com/RatulSikder97/smart-retail-intelligence) | Big-data analytics on 719k GPS-tagged retail shops in Bangladesh: Spark pipeline for clustering, regression, classification & anomaly detection, Streamlit dashboard | Python · Spark · Docker |
+| [**hadoop-hdfs-lab**](https://github.com/RatulSikder97/hadoop-hdfs-lab) | Multi-node Hadoop/HDFS clusters on Docker: fault tolerance, distributed MapReduce, a real LAN cluster | Hadoop · HDFS · Docker |
+| [**DL--genetic-Feature-selection**](https://github.com/RatulSikder97/DL--genetic-Feature-selection) | Enhanced genetic-algorithm feature selection (PMI + GA hybrid) for a Bengali text classifier | Python · NLP |
+| [**trajectory-prediction**](https://github.com/RatulSikder97/trajectory-prediction) | Projectile trajectory prediction with RNN / LSTM sequence models | Python · Deep Learning |
+
+### 🧩 Tools
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**tabsync**](https://github.com/RatulSikder97/tabsync) | Chrome MV3 extension that saves, restores and syncs tab-group workspaces via Google Drive: offline-first, versioned, ⌘K palette | React · TypeScript · Vite |
+
+---
+
 ## 🧰 Tech Stack & Expertise
 
 **🤖 AI / ML & LLMs**
