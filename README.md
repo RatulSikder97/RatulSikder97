@@ -62,16 +62,12 @@ architecture, measurable performance, and turning research ideas into shipped so
 | --- | --- | --- |
 | [**nest-saas-kit**](https://github.com/RatulSikder97/nest-saas-kit) | Multi-tenant SaaS backend: Postgres row-level security + app-layer isolation, rotating refresh tokens with reuse detection, API keys, BullMQ outbox, Redis rate limits | NestJS · TypeORM · Postgres · Redis |
 | [**ledgerflow**](https://github.com/RatulSikder97/ledgerflow) | Event-driven double-entry ledger: balanced immutable entries, idempotent transfers, transactional outbox → Kafka, proven under concurrent load with Testcontainers | Spring Boot 3 · Java 21 · Kafka |
-| [**cloudenvr**](https://github.com/RatulSikder97/cloudenvr) | Centralized encrypted env-var management with audit trails, RBAC, CLI + universal SDK | TypeScript · Node · Docker |
 
-### 📊 Data, ML & Research
+### 📊 Data & ML
 
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [**smart-retail-intelligence**](https://github.com/RatulSikder97/smart-retail-intelligence) | Big-data analytics on 719k GPS-tagged retail shops in Bangladesh: Spark pipeline for clustering, regression, classification & anomaly detection, Streamlit dashboard | Python · Spark · Docker |
-| [**hadoop-hdfs-lab**](https://github.com/RatulSikder97/hadoop-hdfs-lab) | Multi-node Hadoop/HDFS clusters on Docker: fault tolerance, distributed MapReduce, a real LAN cluster | Hadoop · HDFS · Docker |
-| [**DL--genetic-Feature-selection**](https://github.com/RatulSikder97/DL--genetic-Feature-selection) | Enhanced genetic-algorithm feature selection (PMI + GA hybrid) for a Bengali text classifier | Python · NLP |
-| [**trajectory-prediction**](https://github.com/RatulSikder97/trajectory-prediction) | Projectile trajectory prediction with RNN / LSTM sequence models | Python · Deep Learning |
 
 ### 🧩 Tools
 
