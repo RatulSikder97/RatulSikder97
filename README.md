@@ -56,6 +56,12 @@ architecture, measurable performance, and turning research ideas into shipped so
 | [**mcp-postgres-insight**](https://github.com/RatulSikder97/mcp-postgres-insight) | Safe, read-only MCP server giving agents real Postgres insight: AST-guarded SQL, PII redaction, EXPLAIN-driven index advice, prompt-injection-aware output | TypeScript · MCP · PostgreSQL |
 | [**stack_hub**](https://github.com/RatulSikder97/stack_hub) | Voice-preserving, human-gated AI content pipeline that fails loudly when its own output starts sounding like a model | Python · LLMs |
 
+### 🛡️ AI Security, Platform & Ops
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**platform-blueprint**](https://github.com/RatulSikder97/platform-blueprint) | Reference AWS platform for LLM-backed microservices: Terraform (VPC, EKS + Karpenter, RDS pgvector, Valkey), hardened Helm chart, offline-tested plans, kind e2e in CI | Terraform · EKS · Helm · Go |
+
 ### 🏗️ Backend & Distributed Systems
 
 | Project | What it is | Stack |
