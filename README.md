@@ -2,7 +2,7 @@
 
 # Hi, I'm Ratul Sikder 👋
 
-### CTO • AI/ML Engineer • Researcher
+### Tech Lead • AI/ML Engineer • Researcher
 
 I architect intelligent, cloud-native systems — from LLM-powered products and NLP engines to
 high-throughput microservices that stay fast and reliable at scale. I care about clean
@@ -22,7 +22,7 @@ architecture, measurable performance, and turning research ideas into shipped so
 
 ## 🧭 About Me
 
-- 🔭 **Currently** leading engineering as a CTO — owning architecture, AI strategy, and delivery.
+- 🔭 **Currently** leading engineering as a Tech Lead — owning architecture, AI strategy, and delivery.
 - 🤖 **Focused on** applied AI/ML: LLM applications, NLP engines, and intelligent automation.
 - 🔬 **Research-minded** — I enjoy taking ideas from papers to production-grade systems.
 - ⚙️ **Builder at heart** — distributed backends, event-driven services, and platforms that scale.
