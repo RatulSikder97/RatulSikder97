@@ -61,6 +61,7 @@ architecture, measurable performance, and turning research ideas into shipped so
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [**agent-guard**](https://github.com/RatulSikder97/agent-guard) | A firewall for AI agent tool use: MCP security gateway with policy-as-code, prompt-injection and exfiltration defenses, human approvals, tamper-evident audit log | TypeScript · MCP · LLM Security |
+| [**agent-redteam**](https://github.com/RatulSikder97/agent-redteam) | Automated red-teaming benchmark for tool-using LLM agents: 50 sandboxed attack scenarios (OWASP LLM / MITRE ATLAS), programmatic oracles, ablatable defenses, CI regression gating | Python · LLM Security · Claude |
 | [**platform-blueprint**](https://github.com/RatulSikder97/platform-blueprint) | Reference AWS platform for LLM-backed microservices: Terraform (VPC, EKS + Karpenter, RDS pgvector, Valkey), hardened Helm chart, offline-tested plans, kind e2e in CI | Terraform · EKS · Helm · Go |
 
 ### 🏗️ Backend & Distributed Systems
