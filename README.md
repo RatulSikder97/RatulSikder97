@@ -78,6 +78,7 @@ architecture, measurable performance, and turning research ideas into shipped so
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [**outbreak-forecast-mlops**](https://github.com/RatulSikder97/outbreak-forecast-mlops) | End-to-end MLOps for probabilistic dengue forecasting: LightGBM + conformal intervals, walk-forward backtests (MASE 0.21 vs 0.60 seasonal-naive), MLflow promotion gate, FastAPI serving, drift-triggered retraining | Python · MLflow · FastAPI · LightGBM |
+| [**lakehouse-blueprint**](https://github.com/RatulSikder97/lakehouse-blueprint) | Local-first open lakehouse: MinIO + Apache Iceberg (Lakekeeper REST) + Trino + DuckDB + dbt + Dagster — 7.1M real NYC TLC rows, MERGE CDC, time travel, table maintenance | Iceberg · Trino · dbt · Dagster |
 | [**smart-retail-intelligence**](https://github.com/RatulSikder97/smart-retail-intelligence) | Big-data analytics on 719k GPS-tagged retail shops in Bangladesh: Spark pipeline for clustering, regression, classification & anomaly detection, Streamlit dashboard | Python · Spark · Docker |
 
 ### 🧩 Tools
